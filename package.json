@@ -1,0 +1,24 @@
+{
+  "name": "@diegopluna/biome-config",
+  "version": "0.0.0",
+  "main": "index.js",
+  "private": false,
+  "keywords": [
+    "biome",
+    "biomejs",
+    "config",
+    "configuration",
+    "node",
+    "react"
+  ],
+  "author": "Diego Luna",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diegopluna/biome-config"
+  },
+  "description": "BiomeJS configuration for my projects",
+  "peerDependencies": {
+    "@biomejs/biome": "^1.8.0"
+  }
+}
