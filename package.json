@@ -2,6 +2,7 @@
   "name": "@diegopluna/biome-config",
   "version": "0.0.0",
   "private": false,
+  "homepage": "https://github.com/diegopluna/biome-config",
   "keywords": [
     "biome",
     "biomejs",
@@ -10,7 +11,11 @@
     "node",
     "react"
   ],
-  "author": "Diego Luna",
+  "author": {
+    "name": "Diego Pluna",
+    "email": "diegopeter@dpeter.dev",
+    "url": "https://dpeter.dev"
+  },
   "license": "MIT",
   "repository": {
     "type": "git",
