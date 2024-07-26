@@ -1,7 +1,6 @@
 {
   "name": "@diegopluna/biome-config",
   "version": "0.0.0",
-  "main": "index.js",
   "private": false,
   "keywords": [
     "biome",
@@ -20,5 +19,13 @@
   "description": "BiomeJS configuration for my projects",
   "peerDependencies": {
     "@biomejs/biome": "^1.8.0"
+  },
+  "files": [
+    "node.json",
+    "react.json"
+  ],
+  "exports": {
+    "./node": "./node.json",
+    "./react": "./react.json"
   }
 }
